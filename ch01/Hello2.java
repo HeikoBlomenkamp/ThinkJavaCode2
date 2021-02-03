@@ -5,5 +5,4 @@ public class Hello2 {
         System.out.println("Hello, World!");  // first line
         System.out.println("How are you?");   // another line
     }
-
 }
