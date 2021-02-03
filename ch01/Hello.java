@@ -4,5 +4,4 @@ public class Hello {
         // generate some simple output
         System.out.println("Hello, World!");
     }
-
 }
